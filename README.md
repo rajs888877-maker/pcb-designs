@@ -7,5 +7,5 @@ Collection of my PCB hardware design projects including DC-DC converters, EV bat
 | Project Name | Type | Files Included | Status |
 |--------------|------|----------------|--------|
 | AC-DC Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
-ac_dc_con_schematics.pdf
+
 
