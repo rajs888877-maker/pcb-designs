@@ -7,5 +7,6 @@
 | Project Name | Type | Files Included | Status |
 |--------------|------|----------------|--------|
 | AC-DC Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
+|Buck Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
 
 
