@@ -8,5 +8,6 @@
 |--------------|------|----------------|--------|
 | AC-DC Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
 |Buck Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
+|8051Board |  Electronics | Schematic, PCB design, BOM , Routing designs etc. | ✅ Complete |
 
 
