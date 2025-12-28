@@ -1,0 +1,639 @@
+%PDF-1.5
+%ÄÅÇÉ
+5 0 obj
+<< /Length 6 0 R /Filter /FlateDecode >>
+stream
+x⁄}ÃA
+¬@–˝ú"'I˛Ù7s¡•¡E°ÿçØÔ	ÅüºS≥9ƒˆz«À&.«ﬁÎS‰∂º¬È ©®¨î{˘≤o ú˙1@∫Vüz:4ß¶le]-¿à—Æ£’FkÍ@Án√œˆÒÛ\≤0Ó
+endstream
+endobj
+6 0 obj
+117
+endobj
+22 0 obj
+[7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R]
+endobj
+23 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/Resources <<
+    /ProcSet [/PDF /Text /ImageC /ImageB]
+    /Font 2 0 R
+    /XObject 3 0 R >>
+/MediaBox [0 0 841.896 595.296]
+/Contents 5 0 R
+/Annots 22 0 R>>
+endobj
+24 0 obj
+<</S /GoTo /D [23 0 R /Fit]
+>>
+endobj
+27 0 obj
+<</S /GoTo /D [23 0 R /FitR 237 401 272 375]
+>>
+endobj
+29 0 obj
+<</S /GoTo /D [23 0 R /FitR 261 401 296 375]
+>>
+endobj
+31 0 obj
+<</S /GoTo /D [23 0 R /FitR 344 411 375 362]
+>>
+endobj
+33 0 obj
+<</S /GoTo /D [23 0 R /FitR 303 447 363 408]
+>>
+endobj
+35 0 obj
+<</S /GoTo /D [23 0 R /FitR 381 405 437 368]
+>>
+endobj
+37 0 obj
+<</S /GoTo /D [23 0 R /FitR 225 397 311 344]
+>>
+endobj
+39 0 obj
+<</S /GoTo /D [23 0 R /FitR 280 397 366 344]
+>>
+endobj
+41 0 obj
+<</S /GoTo /D [23 0 R /FitR 308 420 357 393]
+>>
+endobj
+43 0 obj
+<</S /GoTo /D [23 0 R /FitR 222 464 313 390]
+>>
+endobj
+45 0 obj
+<</S /GoTo /D [23 0 R /FitR 419 409 450 361]
+>>
+endobj
+47 0 obj
+<</S /GoTo /D [23 0 R /FitR 328 456 436 404]
+>>
+endobj
+49 0 obj
+<</S /GoTo /D [23 0 R /FitR 286 416 324 357]
+>>
+endobj
+51 0 obj
+<</S /GoTo /D [23 0 R /FitR 363 416 402 357]
+>>
+endobj
+53 0 obj
+<</S /GoTo /D [23 0 R /FitR 306 405 362 368]
+>>
+endobj
+55 0 obj
+<</S /GoTo /D [23 0 R /FitR 336 397 422 344]
+>>
+endobj
+57 0 obj
+<< /BaseFont /Helvetica
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+58 0 obj
+<< /BaseFont /Helvetica-Oblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+59 0 obj
+<< /BaseFont /Helvetica-Bold
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+60 0 obj
+<< /BaseFont /Helvetica-BoldOblique
+   /Type /Font
+   /Subtype /Type1
+   /Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+    /KicadFont 57 0 R
+    /KicadFontI 58 0 R
+    /KicadFontB 59 0 R
+    /KicadFontBI 60 0 R
+>>
+endobj
+3 0 obj
+<<
+>>
+endobj
+7 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [251.504 381.776 258.732 394.957]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C4"],
+["Value = 0.1uf"],
+["Footprint = C_Disc_D3.0mm_W2.0mm_P2.50mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+8 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [275.598 381.776 282.827 394.957]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C3"],
+["Value = 0.1uf"],
+["Footprint = C_Disc_D3.0mm_W2.0mm_P2.50mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+9 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [352.247 379.197 367.753 394.702]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D1"],
+["Value = LED"],
+["Footprint = LED_D4.0mm"],
+["Description = Light emitting diode"],
+["Sim.Pins = 1=K 2=A"],
+]\);) >>
+>>
+endobj
+10 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [318.231 423.701 348.137 437.761]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U2"],
+["Value = L7805"],
+["Footprint = TO-220-3_Vertical"],
+["http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf", "http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf"],
+["Description = Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"],
+]\);) >>
+>>
+endobj
+11 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [395.759 382.627 423.454 391.272]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R2"],
+["Value = 1k"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["Description = Resistor, US symbol"],
+]\);) >>
+>>
+endobj
+12 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [246.898 360.516 286.016 370.863]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J2"],
+["Value = Conn_01x04"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x04, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+13 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [302.272 359.099 341.391 369.446]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J3"],
+["Value = Conn_01x04"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x04, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+14 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [320.953 405.304 345.189 413.95]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C2"],
+["Value = 100nf"],
+["Footprint = C_Disc_D8.0mm_W2.5mm_P5.00mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+15 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [245.126 408.847 290.622 441.828]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J1"],
+["Value = Jack-DC"],
+["Footprint = BarrelJack_Horizontal"],
+["Description = DC Barrel Jack"],
+]\);) >>
+>>
+endobj
+16 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [427.365 377.779 442.871 393.285]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = D2"],
+["Value = LED"],
+["Footprint = LED_D4.0mm"],
+["Description = Light emitting diode"],
+["Sim.Pins = 1=K 2=A"],
+]\);) >>
+>>
+endobj
+17 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [377.22 423.417 409.323 437.732]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = U1"],
+["Value = LD1117AV33"],
+["Footprint = TO255P1020X450X1968-3"],
+["MF = STMicroelectronics"],
+["MAXIMUM_PACKAGE_HEIGHT = 19.68mm"],
+["Package = TO-220 STMicroelectronics"],
+["Price = None"],
+["https://www.snapeda.com/parts/LD1117AV33/STMicroelectronics/view-part/?ref=eda", "https://www.snapeda.com/parts/LD1117AV33/STMicroelectronics/view-part/?ref=eda"],
+["STANDARD = IPC-7351B"],
+["PARTREV = 26"],
+["https://www.snapeda.com/parts/LD1117AV33/STMicroelectronics/view-part/?ref=snap", "https://www.snapeda.com/parts/LD1117AV33/STMicroelectronics/view-part/?ref=snap"],
+["MP = LD1117AV33"],
+["https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=486946&manufacturer=STMicroelectronics&part_name=LD1117AV33&search_term=ld1117av33", "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=486946&manufacturer=STMicroelectronics&part_name=LD1117AV33&search_term=ld1117av33"],
+["Description_1 = Linear Voltage Regulator IC Positive Fixed 1 Output  1A TO-220AB"],
+["Availability = In Stock"],
+["MANUFACTURER = ST Microelectronics"],
+]\);) >>
+>>
+endobj
+18 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [295.724 377.241 315.142 396.658]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C1"],
+["Value = 10uf"],
+["Footprint = C_Radial_D6.3mm_H11.0mm_P2.50mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+19 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [372.969 377.241 392.386 396.658]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = C5"],
+["Value = 10uf"],
+["Footprint = C_Radial_D6.3mm_H11.0mm_P2.50mm"],
+["Description = Unpolarized capacitor"],
+]\);) >>
+>>
+endobj
+20 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [320.641 382.627 348.335 391.272]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = R1"],
+["Value = 1k"],
+["Footprint = R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"],
+["Description = Resistor, US symbol"],
+]\);) >>
+>>
+endobj
+21 0 obj
+<<
+/Type /Annot
+/Subtype /Link
+/Rect [357.548 359.099 396.666 369.446]
+/Border [16 16 0]
+/A << /Type /Action /S /JavaScript /JS (ShM\([
+["Reference designator = J4"],
+["Value = Conn_01x04"],
+["Footprint = PinHeader_1x05_P2.54mm_Vertical"],
+["Description = Generic connector, single row, 01x04, script generated \\u0028kicad-library-utils/schlib/autogen/connector/\\u0029"],
+]\);) >>
+>>
+endobj
+4 0 obj
+<< /JavaScript
+ << /Names
+    [ (JSInit) << /Type /Action /S /JavaScript /JS (
+function ShM\(aEntries\) {
+    var aParams = [];
+    for \(var i in aEntries\) {
+        aParams.push\({
+            cName: aEntries[i][0],
+            cReturn: aEntries[i][1]
+        }\)
+    }
+
+    var cChoice = app.popUpMenuEx.apply\(app, aParams\);
+    if \(cChoice != null && cChoice.substring\(0, 1\) == '#'\) this.pageNum = parseInt\(cChoice.slice\(1\)\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'http'\) app.launchURL\(cChoice\);
+    else if \(cChoice != null && cChoice.substring\(0, 4\) == 'file'\) app.openDoc\(cChoice.substring\(7\)\);
+}
+) >> ]
+ >>
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Kids [
+23 0 R
+]
+/Count 1
+>>
+endobj
+61 0 obj
+<<
+/Producer (KiCad PDF)
+/CreationDate (D:20251228185835)
+/Creator (PCBNEW)
+/Title (12v_dc_regulator-Edge_Cuts.pdf)
+/Author ()
+/Subject ()
+>>
+endobj
+50 0 obj
+<<
+/Title (C1)
+/Parent 26 0 R
+/Next 42 0 R
+/A 49 0 R
+>>
+endobj
+42 0 obj
+<<
+/Title (C2)
+/Parent 26 0 R
+/Next 30 0 R
+/Prev 50 0 R
+/A 41 0 R
+>>
+endobj
+30 0 obj
+<<
+/Title (C3)
+/Parent 26 0 R
+/Next 28 0 R
+/Prev 42 0 R
+/A 29 0 R
+>>
+endobj
+28 0 obj
+<<
+/Title (C4)
+/Parent 26 0 R
+/Next 52 0 R
+/Prev 30 0 R
+/A 27 0 R
+>>
+endobj
+52 0 obj
+<<
+/Title (C5)
+/Parent 26 0 R
+/Next 32 0 R
+/Prev 28 0 R
+/A 51 0 R
+>>
+endobj
+32 0 obj
+<<
+/Title (D1)
+/Parent 26 0 R
+/Next 46 0 R
+/Prev 52 0 R
+/A 31 0 R
+>>
+endobj
+46 0 obj
+<<
+/Title (D2)
+/Parent 26 0 R
+/Next 44 0 R
+/Prev 32 0 R
+/A 45 0 R
+>>
+endobj
+44 0 obj
+<<
+/Title (J1)
+/Parent 26 0 R
+/Next 38 0 R
+/Prev 46 0 R
+/A 43 0 R
+>>
+endobj
+38 0 obj
+<<
+/Title (J2)
+/Parent 26 0 R
+/Next 40 0 R
+/Prev 44 0 R
+/A 37 0 R
+>>
+endobj
+40 0 obj
+<<
+/Title (J3)
+/Parent 26 0 R
+/Next 56 0 R
+/Prev 38 0 R
+/A 39 0 R
+>>
+endobj
+56 0 obj
+<<
+/Title (J4)
+/Parent 26 0 R
+/Next 54 0 R
+/Prev 40 0 R
+/A 55 0 R
+>>
+endobj
+54 0 obj
+<<
+/Title (R1)
+/Parent 26 0 R
+/Next 36 0 R
+/Prev 56 0 R
+/A 53 0 R
+>>
+endobj
+36 0 obj
+<<
+/Title (R2)
+/Parent 26 0 R
+/Next 48 0 R
+/Prev 54 0 R
+/A 35 0 R
+>>
+endobj
+48 0 obj
+<<
+/Title (U1)
+/Parent 26 0 R
+/Next 34 0 R
+/Prev 36 0 R
+/A 47 0 R
+>>
+endobj
+34 0 obj
+<<
+/Title (U2)
+/Parent 26 0 R
+/Prev 48 0 R
+/A 33 0 R
+>>
+endobj
+26 0 obj
+<<
+/Title (Footprints)
+/Parent 25 0 R
+/Count -15
+/First 50 0 R
+/Last 34 0 R
+/A 24 0 R
+>>
+endobj
+25 0 obj
+<<
+/Title (Edge.Cuts \(Page 9\))
+/Parent 62 0 R
+/Count -1
+/First 26 0 R
+/Last 26 0 R
+/A 24 0 R
+>>
+endobj
+62 0 obj
+<< /Type /Outlines
+   /Count 17
+   /First 25 0 R
+   /Last 25 0 R
+>>
+endobj
+63 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Version /1.5
+/PageMode /UseOutlines
+/Outlines 62 0 R
+/Names 4 0 R
+/PageLayout /SinglePage
+>>
+endobj
+xref
+0 64
+0000000000 65535 f 
+0000008991 00000 n 
+0000002009 00000 n 
+0000002122 00000 n 
+0000008312 00000 n 
+0000000015 00000 n 
+0000000206 00000 n 
+0000002143 00000 n 
+0000002443 00000 n 
+0000002743 00000 n 
+0000003046 00000 n 
+0000003738 00000 n 
+0000004054 00000 n 
+0000004456 00000 n 
+0000004858 00000 n 
+0000005158 00000 n 
+0000005447 00000 n 
+0000005751 00000 n 
+0000006988 00000 n 
+0000007291 00000 n 
+0000007594 00000 n 
+0000007910 00000 n 
+0000000225 00000 n 
+0000000345 00000 n 
+0000000549 00000 n 
+0000010563 00000 n 
+0000010458 00000 n 
+0000000596 00000 n 
+0000009451 00000 n 
+0000000660 00000 n 
+0000009366 00000 n 
+0000000724 00000 n 
+0000009621 00000 n 
+0000000788 00000 n 
+0000010386 00000 n 
+0000000852 00000 n 
+0000010216 00000 n 
+0000000916 00000 n 
+0000009876 00000 n 
+0000000980 00000 n 
+0000009961 00000 n 
+0000001044 00000 n 
+0000009281 00000 n 
+0000001108 00000 n 
+0000009791 00000 n 
+0000001172 00000 n 
+0000009706 00000 n 
+0000001236 00000 n 
+0000010301 00000 n 
+0000001300 00000 n 
+0000009209 00000 n 
+0000001364 00000 n 
+0000009536 00000 n 
+0000001428 00000 n 
+0000010131 00000 n 
+0000001492 00000 n 
+0000010046 00000 n 
+0000001556 00000 n 
+0000001663 00000 n 
+0000001778 00000 n 
+0000001890 00000 n 
+0000009051 00000 n 
+0000010677 00000 n 
+0000010761 00000 n 
+trailer
+<< /Size 64 /Root 63 0 R /Info 61 0 R >>
+startxref
+10902
+%%EOF
