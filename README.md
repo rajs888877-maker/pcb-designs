@@ -10,3 +10,4 @@
 |Buck Converter | Power Electronics | Schematic, PCB, BOM | ✅ Complete |
 |8051Board |  Electronics | Schematic, PCB design, BOM , Routing designs etc. | ✅ Complete |
 |Multi cell voltage regulator|  Power Electronics |Schematic, PCB design, BOM , Routing designs etc.|✅ Complete |
+|12V Dc Regulator |  Power Electronics |Schematic, PCB design , Routing designs etc.|✅ Complete |
