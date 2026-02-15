@@ -1,4 +1,3 @@
-#  Hardware & Power Electronics Project Portfolio
 
 ##  About This Repository
 
