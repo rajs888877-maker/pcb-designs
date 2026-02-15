@@ -1,85 +1,90 @@
-#  Multi-Cell Voltage Regulator System(this project is ongoing)
+#  Hardware & Power Electronics Project Portfolio
 
-##  Project Overview
+##  About This Repository
 
-This project involves the design and PCB implementation of a Multi-Cell Voltage Regulation System intended for battery-based applications.
+This repository contains a collection of Power Electronics and Embedded Hardware projects designed and developed independently.
 
-The system monitors and regulates voltage across multiple cells to ensure stable output and safe operation. The complete schematic design, component selection, and PCB routing were performed independently.
+The projects demonstrate practical experience in:
 
----
+- Power Supply Design
+- DC-DC Converters
+- Battery Management Systems (BMS)
+- Embedded Hardware Development
+- PCB Design & Routing
+- Manufacturing File Generation
 
-##  Objective
-
-- Monitor voltage levels of multiple cells
-- Ensure safe and reliable power distribution
-- Design a manufacturable PCB layout
-
----
-
-##  System Features
-
-- Multi-cell voltage sensing network
-- Individual voltage regulation stage
-- use OPAM1497 
+All designs include schematic capture, PCB layout, routing optimization, and component selection.
 
 ---
 
-##  Design Approach
+#  Projects Overview
 
-1. Designed voltage sensing network for individual cell monitoring.
-2. Implemented regulation stage to maintain stable output voltage.
-3. Integrated protection mechanisms to prevent overvoltage conditions.
-4. Selected components based on:
-   - Current rating
-   - Voltage handling capability
-   - Thermal performance
-5. Optimized PCB layout to:
-   - Handle higher current paths
-   - Maintain clean grounding
-   - Reduce voltage drop across traces
-6. Performed DRC verification before finalizing the board.
+##  AC to DC Converter
+Designed a linear AC to DC power supply including rectifier, filtering stage, and voltage regulation.  
+Demonstrates understanding of ripple reduction and regulated DC output design.
+
 
 ---
 
-##  PCB Design Highlights
-
-- Wide copper traces for high current handling
-- Proper separation of control and power sections
-- Ground routing optimization
-- Compact layout for efficient space usage
-- Thermal-aware component placement
+##  12V to 5V & 3.3V Linear Regulator
+Developed a dual-output regulated supply using LM7805 and LM1117-3.3.  
+Converts 12V DC into stable 5V and 3.3V rails for embedded systems.
 
 ---
 
-##  Applications
-
-- Battery packs
-- Power distribution systems
-- Embedded power modules
-- EV auxiliary systems
-- Multi-cell energy storage systems
+##  LM2596 Buck Converter
+Designed a high-efficiency DC-DC step-down converter using LM2596 switching regulator.  
+Includes inductor selection, ripple calculation, and EMI-aware PCB routing.
 
 ---
 
-## Files Included
-
-- Schematic Design
-- PCB Layout
-- Routing Files
-- Manufacturing Files (Gerbers(pdf))
-- Bill of Materials (BOM)
+##  Multi-Cell Voltage Regulator
+Designed a voltage regulation system for multi-cell battery applications.  
+Implements monitoring and high-current PCB routing for battery-based systems.
 
 ---
 
-##  Skills Demonstrated
-
-✔ Multi-Cell Power System Design  
-✔ Voltage Monitoring & Regulation  
-✔ Protection Circuit Implementation  
-✔ High-Current PCB Routing  
-✔ Component Selection & Power Analysis  
-✔ Manufacturing File Preparation  
+##  2S BMS with Integrated Charger
+Developed a 2-Series Lithium-ion Battery Management System with protection and charging control.  
+Includes overcharge, over-discharge, and overcurrent protection with MOSFET-based switching.
 
 ---
 
-> This project demonstrates practical experience in battery-related power electronics design including monitoring, regulation, and PCB implementation.
+##  8051 Microcontroller Development Board
+Designed and routed a complete 8051 minimum system PCB including clock circuit, reset circuit, and I/O headers.
+
+---
+
+# 🛠 Tools & Software Used
+
+- PCB Design Software (KiCad)
+- Power Electronics Components & Analysis
+
+---
+
+#  Core Competencies Demonstrated
+
+✔ Power Electronics Circuit Design  
+✔ SMPS & Linear Regulators  
+✔ Battery Management Systems  
+✔ Embedded Hardware Development  
+✔ High-Current PCB Layout  
+✔ EMI-Aware Routing  
+✔ Thermal Considerations  
+✔ Manufacturing-Ready Documentation  
+
+---
+
+#  Engineering Focus
+
+This portfolio reflects a strong interest in:
+
+- Electric Vehicle Power Systems  
+- Battery Electronics  
+- Embedded Hardware Design  
+- Efficient Power Conversion  
+
+---
+
+> All projects were independently developed including calculations, schematic design, PCB layout, routing optimization, and manufacturing file generation.
+
