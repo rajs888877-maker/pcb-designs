@@ -1,4 +1,4 @@
-# Multi-Cell Voltage Regulation System (Ongoing Project)
+# Multi-Cell Voltage Regulation System
 
 ## Project Overview
 
